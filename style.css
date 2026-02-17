@@ -376,7 +376,7 @@ footer {
     outline: none;
     border-color: var(--accent);
     background: rgba(15, 15, 15, 0.8);
-    box-shadow: 0 0 10px rgba(79, 209, 197, 0.2);
+    box-shadow: 0 0 10px rgba(164, 183, 181, 0.2);
 }
 
 .btn-submit {
